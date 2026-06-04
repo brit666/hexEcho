@@ -1,5 +1,5 @@
 # hexEcho
-6-legged, 18 DOF autonomous hexapod robot capable of ultrasonic-guided obstacle avoidance, built entirely from scratch — custom CAD, electronics, and firmware. 
+6-legged, 18 DOF autonomous hexapod robot capable of ultrasonic-guided obstacle avoidance, built entirely from scratch, custom CAD, electronics, and firmware. 
 
 
 I will be adding the firmware files once I am done with the testing. 
