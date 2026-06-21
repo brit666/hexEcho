@@ -34,7 +34,7 @@ HexEcho/
 │   └── stl/                       # Export STLs for printing
 │       ├── body_cylinder.stl
 │       ├── cover_plate.stl
-│       ├── roof_structure.stl
+│       ├── body_hook.stl
 │       ├── coxa_bracket.stl
 │       ├── femur.stl
 │       └── tibia.stl
