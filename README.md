@@ -38,6 +38,7 @@ HexEcho/
 │       ├── coxa_bracket.stl
 │       ├── femur.stl
 │       └── tibia.stl
+│       └── print_details.txt
 ├── schematics/
 │   └── HexEcho_schematic.png      # EasyEDA circuit diagram
 ├── docs/
