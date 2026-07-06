@@ -1,5 +1,7 @@
 # HexEcho 
 
+<img width="1520" height="722" alt="Hexapod Assembly (rendered)" src="https://github.com/user-attachments/assets/a604257b-ee61-423b-83f2-ffc2d34c1197" />
+
 **Autonomous 18-DOF Hexapod Robot with Ultrasonic Navigation**
 
 HexEcho is a fully autonomous six-legged walking robot built from scratch — custom CAD, hand-wired electronics, and original firmware. It uses a wave gait for maximum stability and an HC-SR04 ultrasonic sensor for obstacle detection and avoidance.
